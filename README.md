@@ -16,4 +16,4 @@ Battery | Non-removable Li-Po 5000 mAh battery
 Display | 8 inches, 206.45 cm2 (~71.0% screen-to-body ratio)
 Front + Rear Camera  | OV5695 Module, 5 MP, 1.12μm, MIPI
 
-![Asus Zenfone Max Pro M2](https://cdn.prod.website-files.com/625430ee04813e64814e8ee4/66bb8616543a92cd08a0a66f_Tablet%202.webp) "Acer A8202")
+![Asus Zenfone Max Pro M2](https://cdn.prod.website-files.com/625430ee04813e64814e8ee4/66bb8616543a92cd08a0a66f_Tablet%202.webp "Acer A8202")
