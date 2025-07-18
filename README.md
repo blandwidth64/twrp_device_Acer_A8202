@@ -1,4 +1,4 @@
-TWRP Device Tree for Acer A8202_PA Grandpad (Apollo)
+[WORK IN PROGRESS] TWRP Device Tree for Acer A8202_PA Grandpad (Apollo)
 ===========================================
 
 The Acer A8202_PA (codenamed _"Apollo"_) is a provisioned tablet commisioned by GrandPad and manufactured by Acer.
